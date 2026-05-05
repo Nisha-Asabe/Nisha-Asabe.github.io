@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1777982524117,
+  "timestamp": 1777990228309,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,6 @@
       "urls": [
         "/872.6094a2dea36ff99d.js",
         "/933.88a60288a1a10f10.js",
-        "/favicon.ico",
         "/index.html",
         "/main.e0dd3f39f9c606f5.js",
         "/polyfills.e0a969a52817faf8.js",
@@ -33,7 +32,6 @@
       "urls": [
         "/404.4ed6dad8c73a710d.webp",
         "/about-bg.7c80c2136d4a089d.svg",
-        "/apple-touch-icon.png",
         "/assets/css/animate.min.css",
         "/assets/css/font-awesome.min.css",
         "/assets/data.min.js",
@@ -74,11 +72,6 @@
         "/assets/images/monkey.webp",
         "/assets/images/moon-dark.svg",
         "/assets/images/moon.svg",
-        "/assets/images/mstile-144x144.png",
-        "/assets/images/mstile-150x150.png",
-        "/assets/images/mstile-310x150.png",
-        "/assets/images/mstile-310x310.png",
-        "/assets/images/mstile-70x70.png",
         "/assets/images/portfolio/A-Social-Media.webp",
         "/assets/images/portfolio/AI-Image-Caption-Bot.webp",
         "/assets/images/portfolio/AI-Music-Generation.webp",
@@ -113,8 +106,6 @@
         "/fa-solid-900.45add571878710a9.ttf",
         "/fa-solid-900.7cd3ea3a010ee096.svg",
         "/fa-solid-900.d80d93face7fbbc1.eot",
-        "/favicon-16x16.png",
-        "/favicon-32x32.png",
         "/quote-img.5e642c8eee792695.webp"
       ],
       "patterns": []
@@ -126,7 +117,6 @@
     "/872.6094a2dea36ff99d.js": "7013f18e7b300a70b39f7a44fd5eac5140bc3b3f",
     "/933.88a60288a1a10f10.js": "17e059380f1b14c193fdabd1184b1701d03f643c",
     "/about-bg.7c80c2136d4a089d.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
-    "/apple-touch-icon.png": "8218fb45b26dea0f140a388bcc06c918d08f1d1d",
     "/assets/css/animate.min.css": "4ce4e9a3c083a51cc474b62f755108b9c81e5881",
     "/assets/css/font-awesome.min.css": "daa3daa1dfb9c80bb635d4db60bf77bc6fd6d7fa",
     "/assets/data.min.js": "09466e126e5cd8a5f694c376669663e9cffd65f6",
@@ -167,11 +157,6 @@
     "/assets/images/monkey.webp": "e0a6e05d58f28945c04b9ebf4882142bba3b6101",
     "/assets/images/moon-dark.svg": "c1f86517408bc874dcde9afe3c762c823cb78623",
     "/assets/images/moon.svg": "089b276bc50442333ed0cdeb8c9a7adbc1fc1588",
-    "/assets/images/mstile-144x144.png": "e33a10d95cd5d537ea2e7e2fc4bc98fc7d6a0746",
-    "/assets/images/mstile-150x150.png": "3ea68bef887c28d91f7e8b219d6aee799da724b6",
-    "/assets/images/mstile-310x150.png": "049f463e05674eae257ea400bf2a60dae8d38f97",
-    "/assets/images/mstile-310x310.png": "7a4eb4f0e448d4390a1b126c922fb96e743c7c14",
-    "/assets/images/mstile-70x70.png": "96d391f47f482865c3022253d53ca3c5240e1f45",
     "/assets/images/portfolio/A-Social-Media.webp": "0b6efeecb0553e9b9daeb8aafe9fe6bf6510f521",
     "/assets/images/portfolio/AI-Image-Caption-Bot.webp": "9253cd71d800ecb32a1c285b045ecef0cd9be4a2",
     "/assets/images/portfolio/AI-Music-Generation.webp": "318a35d17b17eb1dd866338f0811f8d285899e47",
@@ -206,9 +191,6 @@
     "/fa-solid-900.45add571878710a9.ttf": "5f4adfe2eb7b4e22cb6323d7560e56ae26f483ba",
     "/fa-solid-900.7cd3ea3a010ee096.svg": "c8e3b7e2aa628e46993e63bf9c806e7c27800149",
     "/fa-solid-900.d80d93face7fbbc1.eot": "26f695865311891d8fa1f6321605306c74b5d44c",
-    "/favicon-16x16.png": "897f537be9e5741b714b45fab9d24a28830f22bd",
-    "/favicon-32x32.png": "053c8fbd3b9a6acc1b02f32172933ddad15cb0c9",
-    "/favicon.ico": "61ea5e23b3647a514301fbc841632aa209c0902f",
     "/index.html": "5efd93dd5f1fd3a8b191c60469ebcd4851d2ea4c",
     "/main.e0dd3f39f9c606f5.js": "771211c3b764895f815fb31ab298b420344b87f1",
     "/polyfills.e0a969a52817faf8.js": "fde60008577c28af60d78d9ac4d4eb45e02210e6",
