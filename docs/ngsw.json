@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1779461186216,
+  "timestamp": 1779507787191,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "/main.e0dd3f39f9c606f5.js",
         "/polyfills.e0a969a52817faf8.js",
         "/runtime.564b344d5f4ef5c4.js",
-        "/scripts.ac1edb5f3697d3ba.js",
+        "/scripts.5deb9ab33f6bdecb.js",
         "/styles.8b8ddfbc8cff0ea3.css"
       ],
       "patterns": []
@@ -58,6 +58,7 @@
         "/assets/images/404.webp",
         "/assets/images/Profile-pic.webp",
         "/assets/images/about-bg.svg",
+        "/assets/images/achievement/CodeVita.webp",
         "/assets/images/achievement/DataScience.webp",
         "/assets/images/achievement/HackerRank.webp",
         "/assets/images/achievement/Hacktoberfest.webp",
@@ -119,7 +120,7 @@
     "/about-bg.7c80c2136d4a089d.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
     "/assets/css/animate.min.css": "4ce4e9a3c083a51cc474b62f755108b9c81e5881",
     "/assets/css/font-awesome.min.css": "daa3daa1dfb9c80bb635d4db60bf77bc6fd6d7fa",
-    "/assets/data.min.js": "74f6e51aab1f16543952188fff503a1a338bf704",
+    "/assets/data.min.js": "8df5cd12d7e715ca74cdac1ada16bc4ab7c8159c",
     "/assets/fonts/BlackOpsOne.eot": "a922adecfeba3ea43f4e644183728cdd1692dbb4",
     "/assets/fonts/BlackOpsOne.svg": "7c13e5df4822e44cfe78f1291757ef7fc4af6d8a",
     "/assets/fonts/BlackOpsOne.ttf": "024e07e45eefb57d4e55fffc082711c2d653e941",
@@ -143,6 +144,7 @@
     "/assets/images/404.webp": "c55234174be110511c6fdf693770c8dde7f046c1",
     "/assets/images/Profile-pic.webp": "55740f30ca6a9f91ed31de5023caadba33681090",
     "/assets/images/about-bg.svg": "2f4e718723ee93de8349ca37808a09b0d5bbce6c",
+    "/assets/images/achievement/CodeVita.webp": "ccbf1263ac88c0c9cd2cc927bfdd335dce1eae66",
     "/assets/images/achievement/DataScience.webp": "d17f698e61b409b529a209fcf6620a9b415dbd7e",
     "/assets/images/achievement/HackerRank.webp": "0d4df017c764d5e16a7e847e43bd21af8f061c26",
     "/assets/images/achievement/Hacktoberfest.webp": "1dc3b04d84f75f5620f84b0f97ca1c913f1d36ee",
@@ -191,12 +193,12 @@
     "/fa-solid-900.45add571878710a9.ttf": "5f4adfe2eb7b4e22cb6323d7560e56ae26f483ba",
     "/fa-solid-900.7cd3ea3a010ee096.svg": "c8e3b7e2aa628e46993e63bf9c806e7c27800149",
     "/fa-solid-900.d80d93face7fbbc1.eot": "26f695865311891d8fa1f6321605306c74b5d44c",
-    "/index.html": "25788f9879dff6ac337b0d61a16e157da94e582e",
+    "/index.html": "a76579e64d03dfff12acfdb3c3e3282365de4301",
     "/main.e0dd3f39f9c606f5.js": "771211c3b764895f815fb31ab298b420344b87f1",
     "/polyfills.e0a969a52817faf8.js": "fde60008577c28af60d78d9ac4d4eb45e02210e6",
     "/quote-img.5e642c8eee792695.webp": "27936458251d3dbc6d1eecfc1e501ab93a3838bb",
     "/runtime.564b344d5f4ef5c4.js": "04382fd7c7a6a17117f291c6e1bfafa8325f648c",
-    "/scripts.ac1edb5f3697d3ba.js": "6f049eb9d1d1eb8f21779dee5316f0ce768d0d80",
+    "/scripts.5deb9ab33f6bdecb.js": "f9329f221082d7256d3d069c8fb9336f0da95196",
     "/styles.8b8ddfbc8cff0ea3.css": "189ee7bc69f2bd67743085fcba2d5aa7e7586bba"
   },
   "navigationUrls": [
